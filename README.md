@@ -17,6 +17,11 @@ Fizz
 Buzz
 Fizz
 7
+8
+Fizz
+Buzz
+11
+Fizz
 {...}
 89
 FizzBuzz
