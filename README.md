@@ -9,7 +9,7 @@ Write a program that prints the numbers from 1 to 100. But for multiples of thre
 
 # usage
 ```
->>> fizzbuzz(n=15)
+>>> fizzbuzz(n=100)
 1
 2
 Fizz
@@ -17,12 +17,17 @@ Fizz
 Buzz
 Fizz
 7
-8
+{...}
+89
+FizzBuzz
+91
+92
+Fizz
+94
+Buzz
+Fizz
+97
+98
 Fizz
 Buzz
-11
-Fizz
-13
-14
-FizzBuzz
 ```
