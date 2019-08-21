@@ -2,7 +2,8 @@
 Simple fizzbuzz example
 
 # usage
-fizzbuzz(n=15)
+```
+>>> fizzbuzz(n=15)
 1
 2
 Fizz
@@ -18,3 +19,4 @@ Fizz
 13
 14
 FizzBuzz
+```
